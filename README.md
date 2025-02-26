@@ -87,9 +87,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, issues, or feedback:
-- **Email:** [your.email@example.com]  
-- **GitHub Issues:** Open an issue at [github.com/yourusername/steganography-project/issues](https://github.com/yourusername/steganography-project/issues)
-
+- **Email:** cebhuvneshsingh@gmail.com  
 ---
 ```
 
