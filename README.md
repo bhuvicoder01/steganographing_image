@@ -87,30 +87,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, issues, or feedback:
-- **Email:** cebhuvneshsingh@gmail.com  
----
-```
-
----
-
-### **Instructions**
-1. **Copy the Content:** Copy the entire text above.
-2. **Create `README.md`:** In your project directory (`/workspaces/steganographing_image/` or your local repo), create a file named `README.md`.
-3. **Paste and Edit:** Paste the content into `README.md`, then update the following placeholders:
-   - Replace `yourusername` with your actual GitHub username in the clone URL and issues link.
-   - Replace `[your.email@example.com]` with your actual email address.
-4. **Save and Commit:** Add the file to your Git repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-   ```
-
----
-
-### **Notes**
-- **Markdown Format:** The content uses Markdown (`.md`) for GitHub compatibility, with headers, lists, and code blocks for readability.
-- **Completeness:** It covers all required sections from your template and adds practical details for users.
-- **Customization:** Feel free to adjust the email or add a personal touch (e.g., a thank-you note to IBM SkillBuild mentors).
-
-This README should serve as a strong companion to your project submission, making it easy for evaluators or users to understand and use your steganography tool. Let me know if you need further tweaks!
+- **Email:** cebhuvneshsingh@gmail.com
