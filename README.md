@@ -47,7 +47,6 @@ Follow these steps to set up the project on your local machine:
    ```
 4. **Run the Application:** Navigate to the project directory and start the tool:
    ```bash
-   cd steganography-project
    python app.py
    ```
 
