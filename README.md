@@ -43,7 +43,7 @@ Follow these steps to set up the project on your local machine:
    *Note:* Tkinter is included with Python, but on Linux, you may need to install `tk-dev` or `libtk-dev` (e.g., `sudo apt-get install python3-tk`).
 3. **Clone the Repository:** Download the project files:
    ```bash
-   git clone https://github.com/yourusername/steganography-project
+   git clone https://github.com/bhuvnenger01/steganographing_image
    ```
    Replace `yourusername` with your actual GitHub username.
 4. **Run the Application:** Navigate to the project directory and start the tool:
