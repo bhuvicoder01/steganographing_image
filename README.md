@@ -17,7 +17,7 @@ This project is a secure steganography tool developed as part of the IBM SkillBu
 ---
 
 ## Project Description
-This tool enables users to conceal confidential messages within images, making the hidden data undetectable to the naked eye and recoverable only with the correct encryption key. It combines LSB steganography for data hiding with AES-256 encryption for confidentiality, providing a dual-layer security approach. Developed for the IBM SkillBuild Cybersecurity Internship, it showcases practical applications in covert communication and data protection.
+This tool enables users to conceal confidential messages within images, making the hidden data undetectable to the naked eye and recoverable only with the correct encryption key. It combines LSB steganography for data hiding with AES-256 encryption for confidentiality, providing a dual-layer security approach.It showcases practical applications in covert communication and data protection.
 
 ---
 
