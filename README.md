@@ -45,7 +45,6 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/bhuvnenger01/steganographing_image
    ```
-   Replace `yourusername` with your actual GitHub username.
 4. **Run the Application:** Navigate to the project directory and start the tool:
    ```bash
    cd steganography-project
