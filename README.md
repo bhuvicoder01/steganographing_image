@@ -35,7 +35,7 @@ This tool enables users to conceal confidential messages within images, making t
 ## Installation
 Follow these steps to set up the project on your local machine:
 
-1. **Install Python:** Ensure Python 3.6 or higher is installed. Download from [python.org](https://www.python.org/downloads/) if needed.
+1. **Install Python:** Ensure Python is installed. Download from [python.org](https://www.python.org/downloads/) if needed.
 2. **Install Required Libraries:** Open a terminal and run:
    ```bash
    pip install pillow cryptography pyperclip
